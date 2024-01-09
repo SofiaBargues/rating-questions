@@ -92,4 +92,4 @@ export default function Home() {
       <Rating value={1} onChange={handleRate} />
     </div>
   );
-}
+  }
