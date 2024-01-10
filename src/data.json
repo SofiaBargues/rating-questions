@@ -2,23 +2,23 @@
   "preguntas": [
     {
       "id": 1,
-      "texto": "¿Qué tan satisfecho estás con el producto?"
+      "texto": "How satisfied are you with the product?"
     },
     {
       "id": 2,
-      "texto": "¿Cuál es tu opinión sobre el servicio al cliente?"
+      "texto": "What is your opinion on the customer service?"
     },
     {
       "id": 3,
-      "texto": "¿Cómo calificarías la usabilidad del sitio web?"
+      "texto": "How would you rate the usability of the website?"
     },
     {
       "id": 4,
-      "texto": "¿Recomendarías nuestro producto a otros?"
+      "texto": "Would you recommend our product to others?"
     },
     {
       "id": 5,
-      "texto": "¿Cómo evaluarías la calidad del producto?"
+      "texto": "How would you assess the quality of the product?"
     }
   ]
 }
